@@ -1,0 +1,8 @@
+prefix=/home/nour/Desktop/dickie2/simulation_ws/devel/.private/duckietown_description
+
+Name: duckietown_description
+Description: Description of duckietown_description
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

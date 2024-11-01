@@ -1,0 +1,5 @@
+user/duckietown_description
+/home/nour/Desktop/dickie2/simulation_ws/devel/.private/duckietown_description/cmake.lock /home/nour/Desktop/dickie2/simulation_ws/devel/./cmake.lock
+/home/nour/Desktop/dickie2/simulation_ws/devel/.private/duckietown_description/lib/pkgconfig/duckietown_description.pc /home/nour/Desktop/dickie2/simulation_ws/devel/lib/pkgconfig/duckietown_description.pc
+/home/nour/Desktop/dickie2/simulation_ws/devel/.private/duckietown_description/share/duckietown_description/cmake/duckietown_descriptionConfig-version.cmake /home/nour/Desktop/dickie2/simulation_ws/devel/share/duckietown_description/cmake/duckietown_descriptionConfig-version.cmake
+/home/nour/Desktop/dickie2/simulation_ws/devel/.private/duckietown_description/share/duckietown_description/cmake/duckietown_descriptionConfig.cmake /home/nour/Desktop/dickie2/simulation_ws/devel/share/duckietown_description/cmake/duckietown_descriptionConfig.cmake
